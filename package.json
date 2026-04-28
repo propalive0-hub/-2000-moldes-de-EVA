@@ -1,0 +1,41 @@
+{
+  "name": "-2000-moldes-de-eva",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/propalive0-hub/-2000-moldes-de-EVA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/propalive0-hub/-2000-moldes-de-EVA/issues"
+  },
+  "homepage": "https://github.com/propalive0-hub/-2000-moldes-de-EVA#readme"
+}
+"scripts": {
+  "start": "servor",
+  "build": "echo 'No build needed'"
+}
+{
+  "name": "2000-moldes-de-eva",
+  "version": "1.0.0",
+  "description": "Pagina de Vendas",
+  "main": "index.js",
+  "scripts": {
+    "start": "servor",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/propalive0-hub/-2000-moldes-de-EVA.git"
+  },
+  "keywords": [],
+  "author": ""
+}
